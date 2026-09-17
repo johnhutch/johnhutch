@@ -1,6 +1,6 @@
 # &rsquo;Sup. I&rsquo;m Hutch.
 
-Building the web since 1999. Thst's long enough to have migrated the same codebase
+Building the web since 1999. That's long enough to have migrated the same codebase
 from vanilla JS to script.acul.us to jQuery to React and back to vanilla again.
 Nearly ten years on Estée Lauder&rsquo;s ecomm platform, nearly ten years (and
 counting) running [Swiftkick Web](https://swiftkickweb.com) -- Rails, Shopify, ADA, performance
